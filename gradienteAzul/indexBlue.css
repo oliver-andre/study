@@ -1,0 +1,16 @@
+/* *{ /*Configuração Global das CSS
+        height: 100%;
+    } */
+    
+    body{
+            text-align: center;    
+            background-image: linear-gradient(to top, 
+            #162E5C, #091C3C, #030917);
+            background-attachment: fixed;
+        }
+
+    h1{
+            font-family: 'Times New Roman', Times, serif;
+            color: aquamarine;
+            
+      }
